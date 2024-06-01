@@ -1,4 +1,4 @@
-# FullStackJavaFXSpringApp
+# FullStackJavaApp
 
 ## Project Overview
 This project consists of three main components:
@@ -10,10 +10,14 @@ This project consists of three main components:
 This project is a back-end for the game Boulder-Dash. The back-end can store users, their records, and maps related to the records. It keeps track of everything that is going on in the game, ensuring all data is managed efficiently and securely.
 
 ## Directory Structure
+```
 /FullStackJavaApp/
 ├── front-end/
-├── java1_pav0546_projekt
-└── back-end-spring
+├── java1_pav0546_projekt/
+│   └── .gitignore
+└── back-end-spring/
+    └── .gitignore
+```
 
 
 ## Getting Started
