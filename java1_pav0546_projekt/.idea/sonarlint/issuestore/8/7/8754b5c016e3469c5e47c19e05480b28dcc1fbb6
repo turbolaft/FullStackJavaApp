@@ -1,0 +1,10 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(â‘éÌ8¦ÒÙô1
+H
+java:S1874"+Remove this use of "URL"; it is deprecated.(ìëïü8§ÒÙô1
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(øÕÅ8¨ÒÙô1
+[
+java:S4719%"9Replace charset name argument with StandardCharsets.UTF_8(Ş¡Úıÿÿÿÿÿ8©ÒÙô1
+L	java:S106/"+Replace this use of System.out by a logger.(«’…Œúÿÿÿÿ8©ÒÙô1

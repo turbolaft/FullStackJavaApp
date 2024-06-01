@@ -1,0 +1,15 @@
+
+>
+java:S1643d"Use a StringBuilder instead.(‹†ƒ—øÿÿÿÿ8¢üº–õ1
+>
+java:S1643f"Use a StringBuilder instead.(©º­Ñşÿÿÿÿ8¢üº–õ1
+d
+java:S2184V"BCast one of the operands of this addition operation to a "double".(îœ²œøÿÿÿÿ8£üº–õ1
+d
+java:S2184V"BCast one of the operands of this addition operation to a "double".(îœ²œøÿÿÿÿ8£üº–õ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(şÆÂöùÿÿÿÿ8üüº–õ1
+R
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8ıº–õ1
+G
+java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµ8ıº–õ1

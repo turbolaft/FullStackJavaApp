@@ -1,0 +1,25 @@
+
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äĞ«ğşÿÿÿÿ8îÛ–¢õ1
+B
+java:S2629«"$Invoke method(s) only conditionally.(ƒÕÎ³8ïÛ–¢õ1
+J
+java:S54116"(Use a primitive boolean expression here.(İ³Î»úÿÿÿÿ8ïÛ–¢õ1
+K
+java:S5411"(Use a primitive boolean expression here.(İ³Î»úÿÿÿÿ8ïÛ–¢õ1
+_
+java:S2184;"BCast one of the operands of this division operation to a "double".(ß¨ÎÊ8ğÛ–¢õ1
+k
+java:S2184˜"HCast one of the operands of this multiplication operation to a "double".(ºØÜûÿÿÿÿ8ğÛ–¢õ1
+f
+java:S2184™"HCast one of the operands of this multiplication operation to a "double".(šÙ—8ğÛ–¢õ1
+w	java:S116%"VRename this field "BearerToken" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ë ìøÿÿÿÿ8Ü–¢õ1
+s
+java:S1450 "VRemove the "mapSize" field and declare it as a local variable in the relevant methods.(‹Ò’ç8Ü–¢õ1
+w
+java:S1450!"URemove the "random" field and declare it as a local variable in the relevant methods.(’ºİÃøÿÿÿÿ8Ü–¢õ1
+o
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Êğß8”Ü–¢õ1
+{
+java:S2142o"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ü–¢õ1
+o
+java:S1659’"LDeclare "upperBoundWidth" and all following declarations on a separate line.(ƒŸ»üÿÿÿÿ8¡Ü–¢õ1

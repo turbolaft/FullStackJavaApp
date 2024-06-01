@@ -1,0 +1,21 @@
+
+a	java:S112÷"FDefine and throw a dedicated exception instead of using a generic one.(“™ ·ÿÿÿÿÿ
+T
+java:S26297"7Use the built-in formatting to construct this argument.(ÁÙºª8ùÉÓ§ã1
+>
+java:S5411g"(Use a primitive boolean expression here.(ÍŒÉš
+?
+java:S5411¡"(Use a primitive boolean expression here.(ŞĞı“
+b	java:S107$"AConstructor has 8 parameters, which is greater than 7 authorized.(ÿ¸üÿÿÿÿÿ8ş±µŸı1
+V	java:S125:"<This block of commented-out lines of code should be removed.(°šŠ½ùÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(Ã¦£İúÿÿÿÿ
+h
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(€¨•
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(“ó™üÿÿÿÿ
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(°¤Î‘ùÿÿÿÿ
+Y
+java:S1117ê"=Rename "resources" which hides the field declared at line 34.(Á¯’Ñøÿÿÿÿ
+H	java:S106ü"+Replace this use of System.out by a logger.(ƒêİÅ8‘°Î•õ1
+N
+java:S1144ä"2Remove this unused private "scanResources" method.(ÿŒÜˆøÿÿÿÿ

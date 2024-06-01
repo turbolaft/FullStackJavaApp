@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="760.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="vsb.cs.java1.java1_pav0546_projekt.bdash.GameController">
+   <children>
+      <HBox alignment="TOP_CENTER" prefHeight="40.0" prefWidth="1200.0" style="-fx-background-color: #3b3b3b;">
+         <children>
+            <Text fx:id="pointsAvail" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER">
+               <HBox.margin>
+                  <Insets left="75.0" right="75.0" />
+               </HBox.margin>
+               <font>
+                  <Font size="20.0" />
+               </font></Text>
+            <Text fx:id="time" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+               <HBox.margin>
+                  <Insets left="75.0" right="75.0" />
+               </HBox.margin>
+               <font>
+                  <Font size="20.0" />
+               </font></Text>
+            <Text fx:id="points" fill="WHITE" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+               <HBox.margin>
+                  <Insets left="75.0" right="75.0" />
+               </HBox.margin>
+               <font>
+                  <Font size="20.0" />
+               </font></Text>
+         </children>
+      </HBox>
+      <Canvas fx:id="canvas" height="720.0" layoutY="40.0" width="1200.0" />
+   </children>
+</Pane>
