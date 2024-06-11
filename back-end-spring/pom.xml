@@ -10,7 +10,7 @@
     </parent>
     <groupId>cz.vsb.java2.project</groupId>
     <artifactId>back-end-spring</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>back-end-spring</name>
     <description>back-end-spring</description>
     <properties>

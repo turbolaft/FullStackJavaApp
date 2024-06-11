@@ -20,10 +20,10 @@ public class Map {
     @Column(nullable = false, name = "map_level")
     private int mapLevel;
 
-    @Column(nullable = false, name = "map_before")
+    @Column(nullable = false, name = "map_before", columnDefinition = "TEXT")
     private String mapBefore;
 
-    @Column(nullable = false, name = "map_after")
+    @Column(nullable = false, name = "map_after", columnDefinition = "TEXT")
     private String mapAfter;
     @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "record_id", nullable = false)

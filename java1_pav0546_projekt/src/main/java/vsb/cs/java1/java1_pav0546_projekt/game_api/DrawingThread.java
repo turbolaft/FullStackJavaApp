@@ -85,7 +85,7 @@ public class DrawingThread extends AnimationTimer {
 
                 String jsonString = mainObject.toString();
 
-                Pair<Integer, String> response = NetworkRequest.makeRequest("http://localhost:9090/secured/createRecord", "POST",
+                Pair<Integer, String> response = NetworkRequest.makeRequest("https://turbolaft.com/secured/createRecord", "POST",
                         "application/json", "application/json", BearerToken,
                         jsonString);
 

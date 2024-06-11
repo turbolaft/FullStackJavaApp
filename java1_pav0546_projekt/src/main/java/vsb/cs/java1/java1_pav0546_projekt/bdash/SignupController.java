@@ -39,7 +39,7 @@ public class SignupController {
             String pass = password.getText();
             String mail = email.getText();
 
-            Pair response = NetworkRequest.makeRequest("http://localhost:9090/auth/signup", "POST",
+            Pair response = NetworkRequest.makeRequest("https://turbolaft.com/auth/signup", "POST",
                     "application/json", "application/json", null,
                     "{\"username\":\"" + user + "\",\"password\":\"" + pass + "\",\"email\":\"" + mail + "\"}");
 

@@ -12,6 +12,9 @@
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <java.version>21</java.version>
+        <javafx.version>21</javafx.version>
+        <javafx.platform>linux x64</javafx.platform> <!-- Change this to win or mac if needed -->
     </properties>
 
     <distributionManagement>
@@ -26,14 +29,13 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
-            <version>22-ea+16</version>
-            <type>pom</type>
+            <version>${javafx.version}</version>
         </dependency>
 
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-fxml</artifactId>
-            <version>22-ea+16</version>
+            <version>${javafx.version}</version>
         </dependency>
 
         <dependency>

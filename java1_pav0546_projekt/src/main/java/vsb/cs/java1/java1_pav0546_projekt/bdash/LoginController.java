@@ -36,7 +36,7 @@ public class LoginController {
             String user = username.getText();
             String pass = password.getText();
 
-            Pair response = NetworkRequest.makeRequest("http://localhost:9090/auth/signin", "POST",
+            Pair response = NetworkRequest.makeRequest("https://turbolaft.com/auth/signin", "POST",
                     "application/json", "application/json", null,
                     "{\"username\":\"" + user + "\",\"password\":\"" + pass + "\"}");
 
