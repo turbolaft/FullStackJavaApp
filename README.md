@@ -9,7 +9,7 @@ This project consists of three main components:
 5. **Nginx reverse proxy**: Entry point to any request coming into the server
 
 ### Description
-This project is a back-end for Boulder-dash game written in JavaFX. I'm using microservice to put each service into a Docker container for better isolation. Docker compose connects all the containers together in a default bridge docker network. All the requests coming into the server are first processed by nginx reverse proxy, than based on the domain name they go to the dedicated service. Back-end is written in Spring:Boot with Hibernate as JPA, and authorization using JWT token. Front-end is built upon HTML, Bootstrap, JS. To see the site please go ahead to https://www.turbolaft.com, (might be down because is running on my notebook at home xD)
+This project is a back-end for Boulder-dash game written in JavaFX. I'm using microservice architecture to put each service into a Docker container for better isolation. Docker compose connects all the containers together in a default bridge docker network. All the requests coming into the server are first processed by nginx reverse proxy, than based on the domain name they go to the dedicated service. Back-end is written in Spring:Boot with Hibernate as JPA, and authorization using JWT token. Front-end is built upon HTML, Bootstrap, JS. To see the site please go ahead to https://www.turbolaft.com, (might be down because is running on my notebook at home xD)
 
 ## Directory Structure
 ```
@@ -52,7 +52,6 @@ sudo docker-compose up
 ```
 
 > [!WARNING]
-> Critical content comes here.
 > don't forget to change
 > ```yml
 > volumes: 
